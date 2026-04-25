@@ -36,7 +36,7 @@ This project demonstrates the design and implementation of a campus network usin
 
 ## 🌐 Network Topology
 
-(Add screenshot here after upload)
+![Campus Network](topology/campus-topology.png)
 
 ---
 
